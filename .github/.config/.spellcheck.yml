@@ -5,7 +5,7 @@ matrix:
     ignore-case: trues
   dictionary:
     wordlists:
-    - .config/dictionaries/.wordlist.txt
+    - .github/.config/dictionaries/.wordlist.txt
     encoding: utf-8
     output: .wordlist.dic
   pipeline:
